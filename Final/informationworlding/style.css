@@ -1,0 +1,21 @@
+body{
+	font-family: 'Roboto Mono', sans-serif;
+	font-family: 'Righteous', cursive;
+
+/*	padding:150px;
+	padding-top:50px;*/
+/*	background: linear-gradient(rgb(109,109,120), rgb(243,109,132));
+*/	background: whitesmoke;
+	/*color:blue;*/
+
+}
+
+
+#world {
+/*	position: absolute;*/
+/*	text-align: center;*/
+	float: center;
+/*s*/
+	overflow: hidden;
+}
+
